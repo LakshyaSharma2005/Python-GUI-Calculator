@@ -80,7 +80,7 @@ This makes the percentage operation work more like a **real calculator**.
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot
 
 <img width="620" height="727" alt="image" src="https://github.com/user-attachments/assets/4eb021e5-6082-46d3-8e6a-da07cdeb121e" />
 
