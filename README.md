@@ -55,7 +55,7 @@ This makes the percentage operation work more like a **real calculator**.
 
 ## ⚙️ Requirements
 
-* Python 3.x
+* Python 3.13.7
 * Tkinter (comes pre-installed with Python)
 
 ---
